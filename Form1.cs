@@ -89,7 +89,7 @@ namespace UnIdad2
                     break;
                 deafault: break;
             }
-
+            ///khkjkjk
 
             incrementoAño = 0.05 * añosTrabajados;
             incremento = incrementoCa + incrementoAño;
