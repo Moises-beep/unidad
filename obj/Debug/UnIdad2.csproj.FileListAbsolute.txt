@@ -1,0 +1,10 @@
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\bin\Debug\UnIdad2.exe.config
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\bin\Debug\UnIdad2.exe
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\bin\Debug\UnIdad2.pdb
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\obj\Debug\UnIdad2.csproj.AssemblyReference.cache
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\obj\Debug\UnIdad2.Form1.resources
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\obj\Debug\UnIdad2.Properties.Resources.resources
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\obj\Debug\UnIdad2.csproj.GenerateResource.cache
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\obj\Debug\UnIdad2.csproj.CoreCompileInputs.cache
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\obj\Debug\UnIdad2.exe
+C:\Users\mined\Desktop\U\Proyects\UnIdad2\UnIdad2\obj\Debug\UnIdad2.pdb
