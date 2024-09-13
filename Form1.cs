@@ -102,7 +102,7 @@ namespace UnIdad2
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-            txtAños.Text = "";
+            txtAños.Text = "varios años moises";
             txtNombre.Text = "";
             txtSalario.Text = "";
             cbxCategoría.SelectedIndex = -1;
